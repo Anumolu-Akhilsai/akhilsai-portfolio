@@ -1,8 +1,5 @@
 # akhilsai-portfolio
 My Java Full Stack Developer Portfolio
-from pathlib import Path
-
-html = """<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
